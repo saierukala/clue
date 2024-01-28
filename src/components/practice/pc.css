@@ -1,0 +1,13 @@
+li {
+  list-style-type: none;
+  justify-content: center;
+  align-items: center;
+}
+.dark{
+  background-color: black;
+  width: max-content;
+}
+.light{
+  background-color: white;
+  width: max-content;
+}
